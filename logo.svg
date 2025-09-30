@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="141.48457mm"
+   height="29.689432mm"
+   viewBox="0 0 141.48457 29.689432"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    sodipodi:docname="logo.svg"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,12 +23,12 @@
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.1165771"
-     inkscape:cx="388.12667"
-     inkscape:cy="346.5501"
+     inkscape:cx="259.38105"
+     inkscape:cy="129.69053"
      inkscape:window-width="2560"
      inkscape:window-height="1494"
      inkscape:window-x="-11"
@@ -35,28 +38,29 @@
   <defs
      id="defs1">
     <rect
-       x="212.01333"
+       x="212.01334"
        y="163.59053"
-       width="683.80842"
-       height="261.74485"
+       width="683.80841"
+       height="261.74484"
        id="rect3" />
     <rect
        x="233.20277"
-       y="173.05126"
-       width="617.2649"
+       y="173.05125"
+       width="617.26489"
        height="173.51163"
        id="rect2" />
     <rect
-       x="97.167821"
+       x="97.167824"
        y="131.40791"
-       width="536.73654"
-       height="96.242413"
+       width="536.73651"
+       height="96.242416"
        id="rect1" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-34.109194,-57.611937)">
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -120,7 +124,7 @@
          cy="252.91095"
          r="15.118111" />
       <circle
-         style="font-size:96px;white-space:pre;opacity:0.9;fill:#67a6a3;fill-opacity:1"
+         style="font-size:96px;white-space:pre;opacity:0.88;fill:#67a6a3;fill-opacity:1"
          id="path14-8"
          cx="314.48477"
          cy="252.91212"
